@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#1b4332;
+    color:white;
+    font-family:Verdana,sans-serif;
+    text-align:center;
+    padding-top:20px;
+}
+
+h1{
+    margin-bottom:15px;
+}
+
+#score{
+    font-size:22px;
+    margin-bottom:15px;
+}
+
+canvas{
+    background:#d8f3dc;
+    border:5px solid #2d6a4f;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(0,0,0,0.3);
+}
